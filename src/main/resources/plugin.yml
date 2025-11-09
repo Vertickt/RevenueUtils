@@ -1,0 +1,8 @@
+name: RevenueUtils
+version: '1.0.0'
+main: io.github.vertickt.revenueUtils.RevenueUtils
+api-version: '1.21'
+authors: [ vertickt ]
+
+libraries:
+  - "net.axay:kspigot:1.21.0"
